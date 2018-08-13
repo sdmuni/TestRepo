@@ -8,6 +8,7 @@
 <title>Insert title here.</title>
 </head>
 <body>
-2.jsp페이지 입니다
+2.jsp페이지 입니다.
+내용 추가 2입니다
 </body>
 </html>
